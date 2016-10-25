@@ -1,1 +1,1 @@
-# SCM
+# Software Configuration Management
